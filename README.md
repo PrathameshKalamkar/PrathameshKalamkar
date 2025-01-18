@@ -1,6 +1,6 @@
 # 🚀 Hi, I'm **Prathmesh Kalamkar**! 👋  
 
-🎯 **Aspiring Java Full Stack Developer** | MERN Stack Developer | Passionate Problem Solver  
+🎯 **Aspiring MERN Full Stack Developer** | Java Full Stack Developer | Passionate Problem Solver  
 
 ---
 
@@ -13,7 +13,6 @@ I'm an enthusiastic **Java Full Stack Developer** with a knack for building seam
 
 ⚡ **Fun Facts:**  
 - 🏏 Cricket enthusiast – I can't miss a highlight of sixes or wickets!  
-- 🎬 Motivated by Bollywood classics like *Lakshya* and *Uri*.  
 - 🌱 Currently diving deeper into **React** and **Spring Boot**.  
 
 ---
